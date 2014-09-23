@@ -1,6 +1,6 @@
 package com.flash.testgithub;
 
 public class Complete {
-	// new class
+	int test = 0;
 
 }
